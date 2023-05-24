@@ -1,0 +1,9 @@
+{application, nbe, [
+    {vsn, "0.1.0"},
+    {description, "-"},
+    {applications, [
+        kernel,
+        stdlib,
+        forms
+    ]}
+]}.

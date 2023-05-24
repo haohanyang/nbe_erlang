@@ -1,0 +1,8 @@
+[{<<"erlscp">>,
+  {git,"https://github.com/fenollp/erlscp.git",
+       {ref,"9d283b2721486c891e7baa302e5746163ccb3e2c"}},
+  0},
+ {<<"forms">>,
+  {git,"https://github.com/efcasado/forms.git",
+       {ref,"37e3f2c04799f8dd0fde43395d43e158f9a7fc56"}},
+  0}].
